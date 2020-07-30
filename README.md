@@ -1,4 +1,4 @@
-# Migration tTols
+# Migration Tools
 This tool can help you measure the following data on a Datadog account:
 
 * Which metrics the prospect is sending to his Datadog account
